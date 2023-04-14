@@ -1,4 +1,4 @@
-# NCML_project
+# NCML project
 Project for Natural Computation Methods in Machine Learning 
 ## Description
 TO-DO

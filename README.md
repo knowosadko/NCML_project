@@ -1,2 +1,8 @@
 # NCML_project
-Project for Natural Computational Methods in Machine Learning 
+Project for Natural Computation Methods in Machine Learning 
+## Description
+TO-DO
+## METHODS
+TO-DO
+## Resources
+TO-DO 

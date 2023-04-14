@@ -2,7 +2,7 @@
 Project for Natural Computation Methods in Machine Learning 
 ## Description
 TO-DO
-## METHODS
+## Methods
 TO-DO
 ## Resources
 TO-DO 

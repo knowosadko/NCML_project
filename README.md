@@ -7,5 +7,6 @@ TO-DO
 ## Game
 TO-DO
 ## Resources
+Report: [here](https://www.overleaf.com/9679698641rbttmysfpqqc)
 Google drive: [here](https://drive.google.com/drive/folders/1PvpYXdNtiZo-MlEE25LgSPYPdH4xnQT5?usp=sharing)
 

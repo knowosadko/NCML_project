@@ -5,7 +5,9 @@ Project proposal: [here](https://drive.google.com/drive/folders/1PvpYXdNtiZo-MlE
 ## Methods
 TO-DO
 ## Game
-TO-DO
+#### Pacman
+Enviroment provided by Open AI Gymnasium [link](https://gymnasium.farama.org/environments/atari/pacman/#pacman).
+**Bug** with **Namespace not found** can be solved with ```pip install "gymnasium[atari, accept-rom-license]"```.
 ## Resources
 Report: [here](https://www.overleaf.com/9679698641rbttmysfpqqc)
 Google drive: [here](https://drive.google.com/drive/folders/1PvpYXdNtiZo-MlEE25LgSPYPdH4xnQT5?usp=sharing)

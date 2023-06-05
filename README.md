@@ -27,7 +27,10 @@ DQN                        |          DDQN              |   AAC
 
 #### Pacman
 Belwo we present training results on the Pacman problem.
+
+
 ![dqn_reward](https://github.com/knowosadko/NCML_project/assets/40035342/dbf96366-c2be-41a4-b90e-7b36f115e746)
+
 ![dqn_ddqn_output](https://github.com/knowosadko/NCML_project/assets/40035342/98a165c6-0835-4fa7-92e0-09854b17fe8a)
 
 

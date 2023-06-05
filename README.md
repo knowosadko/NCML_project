@@ -22,9 +22,8 @@ Belwo we present results of our trainings, first for CartPole then for Pacman.
 Above plots show loss and reward for each of the algorithm trained on CartPole problem.
 Moreover we have videos with performance of each algorithm.
 DQN                        |          DDQN              |   AAC
-:-------------------------:|:-------------------------: | :-------------------------:               ![rl-video-episode-399](https://github.com/knowosadko/NCML_project/assets/40035342/7f3094ae-dbb1-481e-89a1-ea1d0f57d154)
-          |                 ![rl-video-episode-399 (1)](https://github.com/knowosadko/NCML_project/assets/40035342/567c192c-111d-4ff2-8d70-b1830b57c8db)
-           | ![rl-video-episode-499](https://github.com/knowosadko/NCML_project/assets/40035342/eb77b6cc-a0f5-4105-8ec9-3d4030ffd734)
+:-------------------------:|:-------------------------: | :-------------------------:              
+![rl-video-episode-399](https://github.com/knowosadko/NCML_project/assets/40035342/7f3094ae-dbb1-481e-89a1-ea1d0f57d154) |                 ![rl-video-episode-399 (1)](https://github.com/knowosadko/NCML_project/assets/40035342/567c192c-111d-4ff2-8d70-b1830b57c8db) | ![rl-video-episode-499](https://github.com/knowosadko/NCML_project/assets/40035342/eb77b6cc-a0f5-4105-8ec9-3d4030ffd734)
 
 #### Pacman
 Belwo we present training results on the Pacman problem.
@@ -34,7 +33,6 @@ Belwo we present training results on the Pacman problem.
 
 DQN                        |          DDQN              
 :-------------------------:|:-------------------------: 
-                  ![dqn](https://github.com/knowosadko/NCML_project/assets/40035342/edaf14a2-169d-4434-96c9-0a6466aade03)
-         |     ![rl-video-episode-1299](https://github.com/knowosadko/NCML_project/assets/40035342/dc1da948-6452-4411-a5a1-76e92a0423e4)
+![dqn](https://github.com/knowosadko/NCML_project/assets/40035342/edaf14a2-169d-4434-96c9-0a6466aade03) | ![rl-video-episode-1299](https://github.com/knowosadko/NCML_project/assets/40035342/dc1da948-6452-4411-a5a1-76e92a0423e4)
                    
 
